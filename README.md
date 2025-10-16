@@ -52,5 +52,5 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 
 ### Installation
 
-1. Clone the repository
+1. Clone the repository   https://github.com/vishwanath191/my-portfolio.git
 ```bash
